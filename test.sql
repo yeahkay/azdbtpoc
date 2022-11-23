@@ -1,1 +1,1 @@
-select * from table limit5;
+SELECT * FROM APPLE_MOBILITY LIMIT 5;
